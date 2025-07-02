@@ -1,2 +1,2 @@
 # DSA-Python-Projects
-Projects/Assignments from the Data Structures and Algorithms in Python course offered by Jovian
+Projects that revolve around creating simple Python programs, along with DSA exercises found from online tutorials.
